@@ -1,0 +1,14 @@
+next-app/.next
+# env files (can opt-in for committing if needed)
+next-app/.env*
+next-serverside/.env*
+
+# vercel
+.vercel
+
+# typescript
+next-app/*.tsbuildinfo
+next-app/next-env.d.ts
+
+next-serverside/node_modules
+next-app/node_modules
