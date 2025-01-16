@@ -2,6 +2,7 @@ next-app/.next
 # env files (can opt-in for committing if needed)
 next-app/.env*
 next-serverside/.env*
+next-auth/.env*
 
 # vercel
 .vercel
@@ -12,3 +13,4 @@ next-app/next-env.d.ts
 
 next-serverside/node_modules
 next-app/node_modules
+next-auth/node_modules
